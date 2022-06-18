@@ -1,13 +1,7 @@
-### Hi there 👋
 
-**AlkaAswar/AlkaAswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-📫 You can reach me on manasik29@rediffmail.com.
--👋 Hi, I’m @alkaaswar
+👋 Hi, I’m @alkaaswar
 - 👯 I’ve completed 6th months of Data Science and Data Analyst course from Excelr Solution, pune ...
- -👀 I’m interested in Python, Data Science, Data Analytics, Machine learning,SQL,PowerBI and Excel
+- 👀 I’m interested in Python, Data Science, Data Analytics, Machine learning,SQL,PowerBI and Excel
 - 🤔 I’m currently looking for full time job opportunity in Data Science and Data Anyalyst  ...
 - 💬 Ask me about on my Email alkaaswar1997@gmail.com...
 - 📫 How to reach me: on my whats app number 8605924702...
