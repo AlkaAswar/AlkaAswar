@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **AlkaAswar/AlkaAswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on my whats app number 8605924702...
 - 😄 Pronouns: She...
 - ⚡ Fun fact: crafting,Music...
--->
